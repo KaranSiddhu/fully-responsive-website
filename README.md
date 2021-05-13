@@ -1,3 +1,3 @@
 # A fully responsive website using react.js
 
-[https://fully-responsive-website-ee293.web.app/](https://fully-responsive-website-ee293.web.app/)
+Here's a link to my website - [https://fully-responsive-website-ee293.web.app/](https://fully-responsive-website-ee293.web.app/)
